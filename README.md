@@ -1,4 +1,3 @@
-# docker
 Docker
 
 1. Using terminal:
